@@ -1,0 +1,10 @@
+{
+  "name": "webpush-server",
+  "version": "1.0.0",
+  "description": "Vercel serverless web push for Blogger",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "web-push": "^3.5.0"
+  }
+}
